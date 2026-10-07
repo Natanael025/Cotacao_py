@@ -57,4 +57,4 @@ pip install requests beautifulsoup4
 
 ---
 
-Todos os direitos reservados &copy 2026
+Todos os direitos reservados &copy; 2026
